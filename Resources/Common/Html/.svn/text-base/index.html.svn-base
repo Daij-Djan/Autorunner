@@ -1,0 +1,72 @@
+<html>
+<head>
+</head>
+<body>
+	<span style="text-align:center">
+	<h1>
+		Autorunner<br/>
+		<img src="ARLogo.png" width="256" height="256"/>
+	</h1>
+	<h2>1.0 - written 2011 by <a href="mailto:dominik@pich.info">Dominik Pich</a></h2>
+	</span>
+
+	<h3>About:</h3>
+	<p>
+		Autorunner will reside in your menubar and provide windows-like 'autoplay' functionality.<br/>
+		<img src="ARMenubar.png">
+	</p>
+	<p>
+		Whenever a volume is mounted (disk image, cd, external drive, sd card, network share, ...) it executes a selected command on it:
+	</p>
+	<p>
+		The first time a volume is mounted, a chooser window is shown where the commang to be executed can be selected.<br/>
+		<table width="100%">
+		<tr>
+		<td width="50%">
+			<img width="250" src="ARChooser1.png">
+		</td>
+		<td width="50%">
+			<img width="250" src="ARChooser2.png">
+		</td>
+		</tr>
+		</table>
+	</p>
+	<p>
+		Every time the same volume is mounted from now, Autorunner looks if an command has been previously selected and saved. If that is the case, it executes the found command.<br/>
+		<img width="500px" src="ARSaved.png">
+	</p>
+
+	<h3>Note:</h3>
+	<p>
+		Autorunner ignores Audio-CDs and Video-DVDs as default commands for these media are configured via the system preferences.<br/>
+		<br/>
+		When presenting the chooser window for a given volume, Autorunner looks for certain files/commands to be added to the selection directly.
+		The 'Show Contents', 'Browse for file' and 'ignore' option is always shown but in addition the app looks for likely Installers and Readme text/html files.<br/>
+		LAST BUT NOT LEAST<br/>
+		The application searches for a file named Autorun, which can be anything you want - Most often it will be an alias to an app. <b>But even in that case, the file is NOT immediately executed!</b>	
+	</p>
+
+	<h3>Known issues:</h3>
+	<p>
+			? :)
+	</p>
+	<p>
+		<h3>History</h3>
+		<li>
+			1.0: First release
+		</li>
+		<li>
+			0.9: Small issues fixed, ready for final testing
+		</li>
+		<li>
+			0.8: Issues from prior tests fixed: main bug: paths werent always correctly stored as relative values
+		</li>
+		<li>
+			0.5: Restructured App into main and helper app for submission to appstore
+		</li>
+		<li>
+			0.3: First 'Beta' ready for 3rd party testing. 
+		</li>
+	</p>
+</body>
+</html>

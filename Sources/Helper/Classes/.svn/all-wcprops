@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/pich_pich/!svn/ver/100/Autorunner/Sources/Helper/Classes
+END
+ARChooserController.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/pich_pich/!svn/ver/98/Autorunner/Sources/Helper/Classes/ARChooserController.h
+END
+ARVolumeNotifier.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/pich_pich/!svn/ver/94/Autorunner/Sources/Helper/Classes/ARVolumeNotifier.h
+END
+ARAppController.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/pich_pich/!svn/ver/100/Autorunner/Sources/Helper/Classes/ARAppController.m
+END
+ARChooserController.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/pich_pich/!svn/ver/98/Autorunner/Sources/Helper/Classes/ARChooserController.m
+END
+ARHistoryManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/pich_pich/!svn/ver/94/Autorunner/Sources/Helper/Classes/ARHistoryManager.h
+END
+ARVolumeNotifier.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/pich_pich/!svn/ver/100/Autorunner/Sources/Helper/Classes/ARVolumeNotifier.m
+END
+ARAboutController.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/pich_pich/!svn/ver/94/Autorunner/Sources/Helper/Classes/ARAboutController.h
+END
+ARHistoryManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/pich_pich/!svn/ver/94/Autorunner/Sources/Helper/Classes/ARHistoryManager.m
+END
+ARAboutController.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/pich_pich/!svn/ver/94/Autorunner/Sources/Helper/Classes/ARAboutController.m
+END
+ARAppController.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/pich_pich/!svn/ver/94/Autorunner/Sources/Helper/Classes/ARAppController.h
+END

@@ -1,0 +1,14 @@
+/*
+ *  identifier.pch
+ *  Autorunner
+ *
+ *  Created by Dominik Pich on 3/14/11.
+ *  Copyright 2011 FHK Gummersbach. All rights reserved.
+ *
+ */
+#import <Cocoa/Cocoa.h>
+
+//#define USE_SAMPLE_RECEIPT
+#define BUNDLE_NAME @"Autorunner"
+#define BUNDLE_IDENTIFIER @"info.pich.Autorunner"
+#define BUNDLE_SHORT_VERSION_STRING @"1.0"

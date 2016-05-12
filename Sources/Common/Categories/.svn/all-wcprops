@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/pich_pich/!svn/ver/100/Autorunner/Sources/Common/Categories
+END
+NSString+UUID.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/pich_pich/!svn/ver/94/Autorunner/Sources/Common/Categories/NSString+UUID.h
+END
+NSUserDefaults+AR.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/pich_pich/!svn/ver/100/Autorunner/Sources/Common/Categories/NSUserDefaults+AR.m
+END
+NSWindow+localize.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/pich_pich/!svn/ver/94/Autorunner/Sources/Common/Categories/NSWindow+localize.m
+END
+NSString+UUID.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/pich_pich/!svn/ver/94/Autorunner/Sources/Common/Categories/NSString+UUID.m
+END
+NSFileManager+Count.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/pich_pich/!svn/ver/94/Autorunner/Sources/Common/Categories/NSFileManager+Count.h
+END
+NSFileManager+Count.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/pich_pich/!svn/ver/94/Autorunner/Sources/Common/Categories/NSFileManager+Count.m
+END
+NSUserDefaults+AR.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/pich_pich/!svn/ver/94/Autorunner/Sources/Common/Categories/NSUserDefaults+AR.h
+END
+NSWindow+localize.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/pich_pich/!svn/ver/94/Autorunner/Sources/Common/Categories/NSWindow+localize.h
+END
